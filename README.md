@@ -225,4 +225,4 @@ NotebookLM에서 생성된 디자인을 기반으로 합니다.
 
 ---
 
-*Made by [박오종](https://github.com/proracer5576) with NotebookLM*
+*Made by [proracer5576-create](https://github.com/proracer5576-create) with NotebookLM*
